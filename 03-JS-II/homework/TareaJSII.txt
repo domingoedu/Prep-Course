@@ -1,0 +1,13 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+Se usa para no repetir codigos en JS. Me permite escribir menos y completar o recorrer datos. 
+
+* `&&`
+Permite unir datos o encadenarlos (si pasa esto y tambien lo siguiente)
+
+* `||`
+Permite unir datos expresiones o encadenarlas (si pasa esto o lo otro)
+
+* `!`
+Operador de negacion, no es igual, no es verdadero, niega lo que sigue al operador. 

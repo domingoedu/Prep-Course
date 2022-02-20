@@ -1,0 +1,1 @@
+Los arrays son formas de listar ordenadamente, lo cual permite despues hacer uso de las listas, incluir o eliminar elementos.
