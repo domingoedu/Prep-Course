@@ -7,7 +7,7 @@ Se usa para no repetir codigos en JS. Me permite escribir menos y completar o re
 Permite unir datos o encadenarlos (si pasa esto y tambien lo siguiente)
 
 * `||`
-Permite unir datos expresiones o encadenarlas (si pasa esto o lo otro)
+Permite unir datos expresiones o encadnarlas (si pasa esto o lo otro)
 
 * `!`
-Operador de negacion, no es igual, no es verdadero, niega lo que sigue al operador. 
+Operador de negacion, no es igual, no es verdadero, niega lo que sigue al operador
